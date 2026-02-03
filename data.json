@@ -1,0 +1,37 @@
+{
+  "columns": ["Backlog", "Esta Semana", "En Progreso", "Hecho"],
+  "categories": ["Personal", "Work", "Project", "Learning"],
+  "priorities": ["Muy Alta", "Alta", "Media", "Baja"],
+  "tasks": [
+    {
+      "id": "demo1",
+      "title": "Learn something new",
+      "category": "Learning",
+      "status": "Backlog",
+      "priority": "Media",
+      "dueDate": "",
+      "nextAction": "Pick a topic",
+      "notes": "Example task - delete me!"
+    },
+    {
+      "id": "demo2",
+      "title": "Finish project documentation",
+      "category": "Work",
+      "status": "Esta Semana",
+      "priority": "Alta",
+      "dueDate": "2026-02-07",
+      "nextAction": "Review outline",
+      "notes": ""
+    },
+    {
+      "id": "demo3",
+      "title": "Weekly review",
+      "category": "Personal",
+      "status": "En Progreso",
+      "priority": "Media",
+      "dueDate": "",
+      "nextAction": "",
+      "notes": "Reflect on the week"
+    }
+  ]
+}
